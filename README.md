@@ -14,7 +14,7 @@ I am excited to embark on my **100 Days of Code** challenge By applying concepts
 ## Progress
 
 ### Days Completed: 
-![Progress](https://progress-bar.dev/7?scale=100&title=Completed%20Days&width=500&color=babaca&suffix=%20/%20100)
+![Progress](https://progress-bar.dev/13?scale=100&title=Completed%20Days&width=500&color=babaca&suffix=%20/%20100)
 
 ## Daily Log
 
