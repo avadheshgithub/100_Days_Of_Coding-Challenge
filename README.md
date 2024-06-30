@@ -45,9 +45,9 @@ I am excited to embark on my **100 Days of Code** challenge By applying concepts
 | 23  | 2024-07-15 | [Move Zeros (Leetcode 283)](Day23/README.md)                      | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
 | 24  | 2024-07-16 | [Pascal Triangle 2 (Leetcode 119)](Day24/README.md)               | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
 | 25  | 2024-07-17 | [Minimum Sum of (Leetcode 2160)](Day25/README.md)                 | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
-| 26  | 2024-07-18 | [New Topic](Day26/README.md)                                      | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
-| 27  | 2024-07-19 | [New Topic](Day27/README.md)                                      | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
-| 28  | 2024-07-20 | [New Topic](Day28/README.md)                                      | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
+| 26  | 2024-07-18 | [Single Number (Leetcode 136)](Day26/README.md)                                      | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
+| 27  | 2024-07-19 | [Find N unique sum (Leetcode 1304)](Day27/README.md)                                      | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
+| 28  | 2024-07-20 | [Sort Colors (Leetcode 75)](Day28/README.md)                                      | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
 | 29  | 2024-07-21 | [New Topic](Day29/README.md)                                      | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
 | 30  | 2024-07-22 | [New Topic](Day30/README.md)                                      | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
 | 31  | 2024-07-23 | [New Topic](Day31/README.md)                                      | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
