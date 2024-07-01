@@ -7,7 +7,7 @@ Hi, I am Avadhesh Kumar Shah. 🚀
 I am excited to embark on my **100 Days of Code** challenge By applying concepts of Data Structures and Algorithms (DSA) and enhancing my programming logic, I aim to make my coding journey more efficient and effective. This challenge will not only strengthen my problem-solving skills but also prepare me for competitive programming and technical interviews.
 
 ## Goals
-- 🏆 Solve at least one problem every day on platefor,s.
+- 🏆 Solve at least one problem every day on plateforms.
 - 📚 Learn and implement new algorithms and data structures.
 - 📝 Document my progress and reflections daily.
 - 💬 Share my solutions and insights with the community.
