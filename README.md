@@ -11,6 +11,7 @@ I am excited to embark on my **100 Days of Code** challenge By applying concepts
 - 📚 Learn and implement new algorithms and data structures.
 - 📝 Document my progress and reflections daily.
 - 💬 Share my solutions and insights with the community.
+  
 ## Progress
 
 ### Days Completed: 
