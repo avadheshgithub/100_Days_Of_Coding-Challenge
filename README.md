@@ -47,9 +47,9 @@ I am excited to embark on my **100 Days of Code** challenge By applying concepts
 | 23  | 2024-07-15 | [Move Zeros (Leetcode 283)](Day23/README.md)                      | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
 | 24  | 2024-07-16 | [Pascal Triangle 2 (Leetcode 119)](Day24/README.md)               | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
 | 25  | 2024-07-17 | [Minimum Sum of (Leetcode 2160)](Day25/README.md)                 | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
-| 26  | 2024-07-18 | [Single Number (Leetcode 136)](Day26/README.md)                                      | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
-| 27  | 2024-07-19 | [Find N unique sum (Leetcode 1304)](Day27/README.md)                                      | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
-| 28  | 2024-07-20 | [Sort Colors (Leetcode 75)](Day28/README.md)                                      | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
+| 26  | 2024-07-18 | [Single Number (Leetcode 136)](Day26/README.md)                   | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
+| 27  | 2024-07-19 | [Find N unique sum (Leetcode 1304)](Day27/README.md)              | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
+| 28  | 2024-07-20 | [Sort Colors (Leetcode 75)](Day28/README.md)                      | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
 | 29  | 2024-07-21 | [New Topic](Day29/README.md)                                      | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
 | 30  | 2024-07-22 | [New Topic](Day30/README.md)                                      | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
 | 31  | 2024-07-23 | [New Topic](Day31/README.md)                                      | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
@@ -102,26 +102,26 @@ I am excited to embark on my **100 Days of Code** challenge By applying concepts
 | 78  | 2024-09-08 | [New Topic](Day78/README.md)                                      | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
 | 79  | 2024-09-09 | [New Topic](Day79/README.md)                                      | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
 | 80  | 2024-09-10 | [New Topic](Day80/README.md)                                      | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
-| 81   | 2024-09-11 | [New Topic](Day81/README.md)                                 | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
-| 82   | 2024-09-12 | [New Topic](Day82/README.md)                                 | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
-| 83   | 2024-09-13 | [New Topic](Day83/README.md)                                 | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
-| 84   | 2024-09-14 | [New Topic](Day84/README.md)                                 | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
-| 85   | 2024-09-15 | [New Topic](Day85/README.md)                                 | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
-| 86   | 2024-09-16 | [New Topic](Day86/README.md)                                 | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
-| 87   | 2024-09-17 | [New Topic](Day87/README.md)                                 | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
-| 88   | 2024-09-18 | [New Topic](Day88/README.md)                                 | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
-| 89   | 2024-09-19 | [New Topic](Day89/README.md)                                 | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
-| 90   | 2024-09-20 | [New Topic](Day90/README.md)                                 | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
-| 91   | 2024-09-21 | [New Topic](Day91/README.md)                                 | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
-| 92   | 2024-09-22 | [New Topic](Day92/README.md)                                 | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
-| 93   | 2024-09-23 | [New Topic](Day93/README.md)                                 | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
-| 94   | 2024-09-24 | [New Topic](Day94/README.md)                                 | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
-| 95   | 2024-09-25 | [New Topic](Day95/README.md)                                 | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
-| 96   | 2024-09-26 | [New Topic](Day96/README.md)                                 | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
-| 97   | 2024-09-27 | [New Topic](Day97/README.md)                                 | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
-| 98   | 2024-09-28 | [New Topic](Day98/README.md)                                 | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
-| 99   | 2024-09-29 | [New Topic](Day99/README.md)                                 | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
-| 100  | 2024-09-30 | [Final Challenge](Day100/README.md)                           | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
+| 81   | 2024-09-11 | [New Topic](Day81/README.md)                                     | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
+| 82   | 2024-09-12 | [New Topic](Day82/README.md)                                     | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
+| 83   | 2024-09-13 | [New Topic](Day83/README.md)                                     | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
+| 84   | 2024-09-14 | [New Topic](Day84/README.md)                                     | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
+| 85   | 2024-09-15 | [New Topic](Day85/README.md)                                     | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
+| 86   | 2024-09-16 | [New Topic](Day86/README.md)                                     | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
+| 87   | 2024-09-17 | [New Topic](Day87/README.md)                                     | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
+| 88   | 2024-09-18 | [New Topic](Day88/README.md)                                     | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
+| 89   | 2024-09-19 | [New Topic](Day89/README.md)                                     | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
+| 90   | 2024-09-20 | [New Topic](Day90/README.md)                                     | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
+| 91   | 2024-09-21 | [New Topic](Day91/README.md)                                     | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
+| 92   | 2024-09-22 | [New Topic](Day92/README.md)                                     | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
+| 93   | 2024-09-23 | [New Topic](Day93/README.md)                                     | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
+| 94   | 2024-09-24 | [New Topic](Day94/README.md)                                     | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
+| 95   | 2024-09-25 | [New Topic](Day95/README.md)                                     | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
+| 96   | 2024-09-26 | [New Topic](Day96/README.md)                                     | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
+| 97   | 2024-09-27 | [New Topic](Day97/README.md)                                     | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
+| 98   | 2024-09-28 | [New Topic](Day98/README.md)                                     | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
+| 99   | 2024-09-29 | [New Topic](Day99/README.md)                                     | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
+| 100  | 2024-09-30 | [Final Challenge](Day100/README.md)                              | [Link](https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge) |
 
 
 ## Repository Structure
