@@ -18,7 +18,7 @@ I am excited to embark on my **100 Days of Code** challenge By applying concepts
 ### Days Completed: 
 ![Progress](https://progress-bar.dev/28?scale=100&title=Completed%20Days&width=500&color=babaca&suffix=%20/%20100)
 
-## Daily Log
+## Daily Log - 
 
 | Day | Date       | Problem Solved                                                    | Folder Link |
 |-----|------------|-------------------------------------------------------------------|-------------|
