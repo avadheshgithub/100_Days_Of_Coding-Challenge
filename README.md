@@ -108,5 +108,5 @@ I am excited to embark on my 100 Days of Code challenge. By applying Data Struct
 │   ├── README.md                    # Notes and reflections for Day 100
 ├── assets
 │   ├── banner.png                   # Banner image for README
-│   ├── stickers                     # Folder for any stickers or images
+│   ├── stickers                     # Folder for any stickers or image
 ├── README.md                        # This file
