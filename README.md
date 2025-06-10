@@ -9,7 +9,7 @@ I am excited to embark on my 100 Days of Code challenge. By applying Data Struct
 ## Goals
 - 🏆 Solve at least one problem every day on platforms.
 - 📚 Learn and implement new algorithms and data structures.
-- 📝 Document my progress and reflections daily.
+- 📝 Document my progress and reflections on a daily basis.
 - 💬 Share my solutions and insights with the community.
   
 ## Progress
